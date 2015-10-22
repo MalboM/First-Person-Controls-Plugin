@@ -10,7 +10,10 @@ public enum GroundType
     SAND,
 	GRASS,
 	ASPHALT,
-	CONCRETE
+	CONCRETE,
+	WOOD,
+	WATER,
+	METAL
 }
 
 /// <summary>
@@ -33,6 +36,9 @@ public class GroundStepsController : MonoBehaviour {
 	public AudioClip[] grassClips;
 	public AudioClip[] asphaltClips;
 	public AudioClip[] concreteClips;
+	public AudioClip[] woodClips;
+	public AudioClip[] waterClips;
+	public AudioClip[] metalClips;
 
     private AudioClip[] chosenClips;
     private int currentClipIndex = 0;
@@ -97,6 +103,18 @@ public class GroundStepsController : MonoBehaviour {
 			case GroundType.CONCRETE:
 				chosenClips = concreteClips;
 				break;
+
+		case GroundType.WOOD:
+			chosenClips = woodClips;
+			break;
+
+		case GroundType.WATER:
+			chosenClips = waterClips;
+			break;
+
+		case GroundType.METAL:
+			chosenClips = metalClips;
+			break;
         }
 
     }
