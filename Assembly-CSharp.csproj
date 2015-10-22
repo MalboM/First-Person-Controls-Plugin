@@ -180,7 +180,6 @@
      <Compile Include="Assets\SampleAssets\Vehicles\Car\Scripts\Wheel.cs" />
      <Compile Include="Assets\SampleAssets\Vehicles\RollerBall\Scripts\Ball.cs" />
      <Compile Include="Assets\SampleAssets\Vehicles\RollerBall\Scripts\BallUserControl.cs" />
-     <Compile Include="Assets\ScriptFabio\ChangeTexture.cs" />
      <Compile Include="Assets\Scripts\Debug\ResetLevelDebug.cs" />
      <Compile Include="Assets\Scripts\Debug\TimescaleDebug.cs" />
      <Compile Include="Assets\Scripts\Objects\ForceOrientation.cs" />
@@ -229,6 +228,7 @@
      <Compile Include="Assets\Scripts\Player\TestHandChangeColorComponent.cs" />
      <Compile Include="Assets\Scripts\SceneSwitch\GoToSceneEffect.cs" />
      <Compile Include="Assets\Scripts\SceneSwitch\Loader.cs" />
+     <Compile Include="Assets\Scripts\ScriptExternal\ChangeTexture.cs" />
      <Compile Include="Assets\Scripts\Statics.cs" />
      <None Include="Assets\SampleAssets\Effects\Projectors\ProjectorGuidelines.txt" />
      <None Include="Assets\SampleAssets\Effects\GlassRefraction (Pro Only)\Shaders\GlassStainedBumpDistort.shader" />
