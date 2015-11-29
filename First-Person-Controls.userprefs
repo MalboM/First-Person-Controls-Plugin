@@ -1,8 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\First Person ACTIONS!\SampleAssets\Cameras\Scripts\AutoCam.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\Desktop\Lavoro\The Deer\The Deer Project\Assets\Scripts\PosizioneCervo.js">
     <Files>
-      <File FileName="Assets\First Person ACTIONS!\SampleAssets\Cameras\Scripts\AutoCam.cs" Line="1" Column="1" />
+      <File FileName="..\..\..\Desktop\Lavoro\The Deer\The Deer Project\Assets\Scripts\PosizioneCervo.js" Line="12" Column="2" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
