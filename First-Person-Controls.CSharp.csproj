@@ -157,6 +157,7 @@
   <ItemGroup>
     <None Include="Assets\Editor\Doxygen\ReadMe.txt" />
     <None Include="Assets\Editor\Doxygen\Resources\BaseDoxyfile.txt" />
+    <None Include="Assets\First Person ACTIONS!\Documentation\FilesToReplaceInProjectSettings\ProjectVersion.txt" />
     <None Include="Assets\First Person ACTIONS!\SampleAssets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
     <None Include="Assets\First Person ACTIONS!\SampleAssets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
     <None Include="Assets\First Person ACTIONS!\SampleAssets\Prototyping\Shaders\WorldCoordDiffuse.shader" />
